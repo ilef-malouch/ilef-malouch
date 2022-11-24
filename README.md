@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ilef MALOUCHE</h1>
 <h3 align="center">A passionate software engineering student at INSAT</h3>
-<center>
-<img align="center" alt="Coding" width="450" src=https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif>
-</center>
+<p style="text-align:center;">
+<img alt="Coding" width="450" src=https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilef-malouch&label=Profile%20views&color=0e75b6&style=flat" alt="ilef-malouch" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilef-malouch" alt="ilef-malouch" /></a> </p>
