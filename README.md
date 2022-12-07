@@ -1,15 +1,18 @@
- <h1 align="center">Hi 👋, I'm Ilef MALOUCHE</h1>
+Samer Ben Mim
+<h1 align="center">Hi 👋, I'm Ilef MALOUCHE</h1>
 <h3 align="center">A passionate software engineering student at INSAT</h3>
-
+<center>
 <img align="center" alt="Coding" width="450px" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilef-malouch&label=Profile%20views&color=0e75b6&style=flat" alt="ilef-malouch" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ilef-malouch&label=Profile%20views&color=0e75b6&style=flat" alt="ilef-malouch" /> </p>
  
+</center>
+
+
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilef-malouch" alt="ilef-malouch" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning *Cloud Computing*
 
-- 📫 How to reach me **ilef.malouch@insat.ucar.tn**
+- 📫 How to reach me *ilef.malouch@insat.ucar.tn*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
