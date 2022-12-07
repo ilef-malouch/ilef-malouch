@@ -1,4 +1,3 @@
-Samer Ben Mim
 <h1 align="center">Hi 👋, I'm Ilef MALOUCHE</h1>
 <h3 align="center">A passionate software engineering student at INSAT</h3>
 <center>
