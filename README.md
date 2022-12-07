@@ -4,7 +4,6 @@ Samer Ben Mim
 <center>
 <img align="center" alt="Coding" width="450px" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" >
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ilef-malouch&label=Profile%20views&color=0e75b6&style=flat" alt="ilef-malouch" /> </p>
- 
 </center>
 
 
