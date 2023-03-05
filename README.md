@@ -10,7 +10,7 @@
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilef-malouch" alt="ilef-malouch" /></a> </p>
 
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 I’m currently learning Cloud Computing and DevOps
 
 - 📫 How to reach me ilef.malouch@insat.ucar.tn
 
